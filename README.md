@@ -12,7 +12,7 @@ This is the first weeks challenge.
 In order to run this application you need to go to the following link: https://seanshin0821.github.io/Horiseon-project/
 
 
----
+---..
  
 # 01 HTML, CSS, and Git: Code Refactor
 
